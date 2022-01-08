@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Renault M",
+    "driver": "",
+    "base": "ON_BASE"
+  },
+  {
+    "id": 2,
+    "name": "Volvo    ",
+    "driver": "",
+    "base": "ON_BASE"
+  },
+  {
+    "id": 3,
+    "name": "DAF XT   ",
+    "driver": "",
+    "base": "ON_BASE"
+  }
+]
